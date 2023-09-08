@@ -1,0 +1,2 @@
+1 - Layout deve ser de fácil entendimento para todos, no início os dados serão colocados de forma hardcode
+2 - o Layout deve ser integrado com um banco de dados e a rotação deve ser feita de acordo com as informações que estão armazenadas nesse banco de dados. 

@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fda4af;
+}
+
+.title {
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: center;
+  width: 120px;
+}
+
+th {
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #dcebe6;
+}
+
+tr:hover:nth-child(1n + 2) {
+  background-color: #085f63;
+  color: #fff;
+}
+
+.cafe-da-manha {
+  color: #be123c;
+}
+
+.horario-normal {
+  color: #085f63;
+}
